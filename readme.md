@@ -18,6 +18,29 @@ To get started, see the hello world challenge.
 - Elixir
 - Rust
 
+## Challenges
+
+Challenges to be added...
+
+    - Bmi calc
+    - Lines of code calc
+    - Image color extraction
+    - Some data challenge w/ Postgres, RethinkDB, MongoDB
+    - Tetris
+      - Game-state analyzer
+      - Is move legal check
+    - Education software (Matt)
+      - Teachers
+      - Students
+      - Classes
+        - Assignments
+        - Grading checklists
+        - Plagarism detection
+        - Due date/times
+        - Dashboard
+          - 23 of 30 students turned in assignment X
+          - 2 of 30 submissions graded
+
 ## License: MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
