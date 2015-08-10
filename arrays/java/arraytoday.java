@@ -1,6 +1,6 @@
-public class arraytoday {
+public class arraytoday{
 	public static void main (String[] args){
-		String[] str = {"Much ", "More", "Java "};
+		String[] str = {"Much ", "More ", "Java "};
 		int[] num = new int[3];
 		
 		num[0] = 100;
