@@ -1,4 +1,5 @@
-public class Arrays{
+import java.util.Arrays;
+public class raysolight{
     public static void main(String[] args){
         int[] num = {10, 14, 36, 27, 43, 18};
         String[] str = new String[4];
@@ -20,5 +21,15 @@ public class Arrays{
         
         boolean[] aryBools = new boolean[]{false, true, false, true};
         System.out.println("aryBools stores boolean values like: " + aryBools[0] + " " + aryBools[1]);
+        
+        Arrays.sort(str);
+        int i;
+        for (i = 0; i < str.length; i++){
+            System.out.println(str[i]);
+        }
+        Arrays.sort(num);
+        for(i = 0; i < num.length; i++){
+            System.out.println(num[i]);
+        }
     }    
 }
